@@ -1,0 +1,201 @@
+    1  ls
+    2  ls /
+    3  cd / home
+    4  cd /home
+    5  ls
+    6  cd /mfundom
+    7  ls
+    8  ls /
+    9  cd /home/
+   10  ls
+   11  cd /mnt/c
+   12  ls
+   13  cd Users/
+   14  ls
+   15  cd /Unity
+   16  ls /
+   17  clear
+   18  ls
+   19  cd /Unity/
+   20  cd ../..
+   21  ls
+   22  ~/
+   23  clear
+   24  cd /Desktop
+   25  ls
+   26  cd /Desktop
+   27  dir
+   28  cd Desktop/
+   29  dir
+   30  clear
+   31  ls
+   32  jjk6.mp4
+   33  cd Umuzi/
+   34  dir
+   35  cd PythonGitTut/
+   36  ls
+   37  git commit
+   38  git init
+   39  clear
+   40  cd..
+   41  cd ..
+   42  cd PythonGitTut/
+   43  git init
+   44  rm /.git
+   45  rmdir /.git
+   46  rmdir .git/
+   47  cd ..
+   48  cd PythonGitTut/
+   49  help
+   50  pwd
+   51  clear
+   52  exit
+   53  quit
+   54  exit
+   55  ls
+   56  dir
+   57  la a
+   58  pwd
+   59  ls
+   60  pwd
+   61  ls /
+   62  dir
+   63  cd Desktop/
+   64  clear
+   65  ls /
+   66  ls
+   67  cd Umuzi/
+   68  cd PythonGitTut/
+   69  dir
+   70  code question_1.md
+   71  cls
+   72  clear
+   73  ls
+   74  clear
+   75  exit
+   76  cd ..
+   77  cd PythonGitTut
+   78  man ls
+   79  man ls /
+   80  man cd
+   81  man man
+   82  cd home
+   83  pwd
+   84  ls
+   85  git clone https://github.com/Umuzi-org/Mfundo-Mkhasibe-394-bash-for-bootcamp-
+   86  cd../..
+   87  cd ..
+   88  ssh-keygen -t ed25519 -C "mfundomkhasibe@gmail.com"
+   89  Start-Service sshd
+   90  Start-Service ssh-agent
+   91  clear
+   92  cd Umuzi/
+   93  cs PythonGitTut/
+   94  cd PythonGitTut/
+   95  git clone git@github.com:Umuzi-org/Mfundo-Mkhasibe-394-bash-for-bootcamp-.git
+   96  clear
+   97  cd Mfundo-Mkhasibe-394-bash-for-bootcamp-/
+   98  git status
+   99  git add *'.md'
+  100  status
+  101  exit
+  102  cd..
+  103  ls
+  104  exit
+  105  ls
+  106  ls /
+  107  ls /Users
+  108  cd /
+  109  cd home
+  110  ls
+  111  cd..
+  112  cd ..
+  113  cd /mntc
+  114  cd /mnt/c
+  115  cd Users/
+  116  cd Unity/
+  117  cd Desktop/
+  118  cd Umuzi/
+  119  cd PythonGitTut/
+  120  ls
+  121  ls /
+  122  git status
+  123  clear
+  124  cd Mfundo-Mkhasibe-394-bash-for-bootcamp-/
+  125  git status
+  126  ls
+  127  question_2.md code
+  128  code question_2.md
+  129  git add question_2.md
+  130  git status
+  131  clear
+  132  git commit -m "Correcting the answer to question 2"
+  133  git config --global --edit
+  134  cd /c
+  135  cd mnt/c
+  136  cd /mnt/c
+  137  dir
+  138  cd Users/
+  139  cd Unity/
+  140  cd Desktop
+  141  cd Umuzi/
+  142  cd Git-exe/
+  143  cd ..
+  144  mkdir git-basic-exercises
+  145  cd git-basic-exercises/
+  146  ls -a
+  147  git init
+  148  ls -1
+  149  ls -a
+  150  git config --global user.name
+  151  git config --global user.name "MfundoM"
+  152  git config --global user.name
+  153  git config --global user.email "mfundomkhasibe@gmail.com"
+  154  git config --global user.email 
+  155  clear
+  156  ls -a
+  157  git status
+  158  touch README.md
+  159  ls -a
+  160  git log
+  161  git add README.md 
+  162  git status
+  163  git commit -m "First commit"
+  164  git log
+  165  nano README.md 
+  166  git status
+  167  nano README.md 
+  168  git status
+  169  git add README.md 
+  170  git status
+  171  git commit -m "Second commit"
+  172  cat README.md 
+  173  nano README.md 
+  174  git status
+  175  git add README.md 
+  176  git commit -m "Third commit"
+  177  git log
+  178  q
+  179  clear
+  180  git log
+  181  git branch
+  182  git checkout -b milkshake-flavours
+  183  git branch
+  184  git checkout master
+  185  git branch
+  186  git checkout milkshake-flavours 
+  187  nano milkshake.md
+  188  git status
+  189  cat milkshake.md 
+  190  nano milkshake.md 
+  191  cat milkshake.md 
+  192  git add milkshake.md 
+  193  clear
+  194  git commit -m "added initial flavours"
+  195  git log
+  196  git checkout master
+  197  git log
+  198  git checkout -b history
+  199  git log
+  200  git branch
+  201  history > history.txt
