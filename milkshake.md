@@ -1,7 +1,0 @@
-Choco-vanilla 
-
-Vanilla
-
-Strawberry 
-
-
